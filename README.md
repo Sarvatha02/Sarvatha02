@@ -1,7 +1,9 @@
 # Hi 👋 I'm Sarvatha
 
 🎓 Computer Science Engineering Student
+
 💻 Full Stack Web Developer | Java Backend Developer
+
 🚀 Interested in building scalable web applications and intelligent systems
 
 
@@ -22,6 +24,7 @@
 
 ## 📫 Connect with Me
 
-• GitHub: https://github.com/Sarvatha02
-• LinkedIn: www.linkedin.com/in/r-sarvatha
+• **GitHub:** https://github.com/Sarvatha02
+
+• **LinkedIn:** www.linkedin.com/in/r-sarvatha
 
