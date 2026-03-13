@@ -8,11 +8,13 @@
 
 ## 🛠 Skills
 
-• **Frontend:** HTML5,CSS3,Javascript,React.js,Bootstrap,Tailwindcss
-• **Backend:** Node.js,SpringBoot,RESTfull API
-• **Database Management:** MYSQL,PostgreSQL
-• **Programming Language:** Java
-• **Core Concepts:** Data Structure,OOPs,DBMS
+* **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS
+* **Backend:** Node.js, Spring Boot, RESTful APIs
+* **Database Management:** MySQL, PostgreSQL
+* **Programming Languages:** Java
+* **Core Concepts:** Data Structures, Algorithms, OOPs, DBMS
+* **Version Control & Deployment:** Git, GitHub
+
 
 
 ---
