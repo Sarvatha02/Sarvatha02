@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Sarvatha
 
-<!--
-**Sarvatha02/Sarvatha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+💻 Full Stack Web Developer|Java
+🚀 Interested in building scalable web applications and intelligent systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+• **Frontend:** HTML5,CSS3,Javascript,React.js,Bootstrap,Tailwindcss
+• **Backend:** Node.js,SpringBoot,RESTfull API
+• **Database Management:** MYSQL,PostgreSQL
+• **Programming Language:** Java
+• **Core Concepts:** Data Structure,OOPs,DBMS
+
+
+---
+
+## 📫 Connect with Me
+
+• GitHub: https://github.com/Sarvatha02
+• LinkedIn: linkedin.com/in/r-sarvatha
