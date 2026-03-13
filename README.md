@@ -23,4 +23,5 @@
 ## 📫 Connect with Me
 
 • GitHub: https://github.com/Sarvatha02
-• LinkedIn: linkedin.com/in/r-sarvatha
+• LinkedIn: www.linkedin.com/in/r-sarvatha
+
