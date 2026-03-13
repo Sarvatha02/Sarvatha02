@@ -1,8 +1,9 @@
 # Hi 👋 I'm Sarvatha
 
 🎓 Computer Science Engineering Student
-💻 Full Stack Web Developer|Java
+💻 Full Stack Web Developer | Java Backend Developer
 🚀 Interested in building scalable web applications and intelligent systems
+
 
 ---
 
