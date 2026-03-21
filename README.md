@@ -1,22 +1,22 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sudharsan%20S&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sarvatha%20R&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Agentic+AI+Engineer;LLM+Systems+%26+Backend+Infrastructure;RAG+Pipelines+%7C+MCP+Integration+%7C+Distributed+Systems;Computer+Vision+%7C+Embedded+AI+%7C+IoT;GNSS-Denied+Navigation+%7C+Autonomous+Systems;SIH+%2725+National+Winner+%7C+AIR+62+Amazon+ML+Challenge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Backend+Developer+%7C+REST+APIs;Software+Engineering"/>
 </h2>
 
 <p align="center">
-  <b>Agentic AI · LLM Infrastructure · Backend Systems · Embedded Intelligence · Quantum Computing</b>
+  <b>Java · Full Stack Development · Backend Developer· Problem Solving</b>
 </p>
 
 <p align="center">
-  <a href="mailto:sudharsan97511@gmail.com">
+  <a href="mailto:rsarvatha@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A2A43?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sudharsan-s-528a8a2a0/">
+  <a href="linkedin.com/in/r-sarvatha">
     <img src="https://img.shields.io/badge/LinkedIn-0D4C73?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Sudharsanselvaraj">
+  <a href="github.com/Sarvatha02">
     <img src="https://img.shields.io/badge/GitHub-0A2A43?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -25,12 +25,13 @@
 
 ## About Me
 
-> **Agentic AI Engineer** specializing in end-to-end LLM systems, RAG pipelines, and distributed backend infrastructure. Pre-final year CSE student at **SRMIST Trichy** pursuing **BTech Honours in Quantum Computation**, currently **ML Engineer Intern at ALKF, Hong Kong (Remote)**.
+> Computer Science Engineering student with strong foundation in **Core Java, OOP, and full-stack development**. Experienced in building web applications using modern technologies and developing scalable backend systems.
 
-- Building production-grade autonomous AI systems — not just notebooks
-- **SIH '25 National Winner** (₹1,50,000) · **AIR 62 / 6,223** at Amazon ML Challenge 2025
-- Bridging AI, backend infrastructure, computer vision, and embedded hardware
-- Research presented at **ICETETM'25** (International Conference) · **CGPA: 9.667**
+- Strong understanding of **object-oriented programming and backend development**
+- Experience building **RESTful APIs using Spring Boot**
+- Hands-on experience in **frontend and backend integration**
+- Completed **internship with real-world project development experience**
+- Focused on writing **clean, optimized, and maintainable code**
 
 ---
 
@@ -38,57 +39,36 @@
 
 <table width="100%" align="center">
 <tr>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
-### Agentic AI & LLMs
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-0A2A43?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0A2A43?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Integration-1a1a2e?style=flat-square&logoColor=white)
-![IBM GenAI](https://img.shields.io/badge/IBM_GenAI-006699?style=flat-square&logo=ibm&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-### Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,redis,docker&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
-
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0A2A43?style=flat-square)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-</td>
-<td width="25%" valign="top">
-
-### AI / ML & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00CCCC?style=flat-square&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 </td>
-<td width="25%" valign="top">
 
-### Embedded, Quantum & Geospatial
+<td width="33%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=arduino,linux&theme=dark"/>
+### Frontend Development
 
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-003153?style=flat-square&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![NASA](https://img.shields.io/badge/NASA_FIRMS-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark"/>
+
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-0A2A43?style=flat-square)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -96,10 +76,11 @@
 
 ---
 
-### Languages & Data
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css&theme=dark"/>
+  
 </p>
 
 <p align="center">
@@ -108,47 +89,17 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TF--IDF-0A2A43?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-1D3557?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Annotation-0D4C73?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Probability_%26_Statistics-22314E?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linear_Algebra-0A2A43?style=flat-square&logoColor=white"/>
 </p>
 
 ---
 
-## Achievements & Events
+## Projects
 
-| Event | Outcome | Prize / Recognition |
-|-------|---------|---------------------|
-| **Smart India Hackathon 2025** | 🥇 **National Winner** — first SRMIST Trichy team in 5 years | ₹1,50,000 |
-| **Amazon ML Challenge 2025** | **AIR 62 / 6,223 teams** | All-India Rank |
-| **Edu Tantr 12-Hour Hackathon** | **Top 5 / 981 teams** — National Finalist | — |
-| **DigiGreen National Hackathon** | 🏆 **4th Place / 556+ teams** | Certificate of Recognition |
-| **ProtoThon 1.0 – SRM IST** | 🥇 **Winner** | ₹5,000 |
-| **Algo Vault – YUVA Techfest** | 🥇 **Winner** | ₹5,000 |
-| **ICETETM'25 – International Conference** | Research Paper Presented | International |
-| **INNOV FEST '24 – SRM IST** | Project Deployment | Institutional |
-| **HackXtreme 2025** | 24-Hour Hackathon | Participation |
-
----
-
-## Featured Projects
-
-| Project | Description | Stack | Recognition |
-|---------|-------------|-------|-------------|
-| **[Applivo](https://github.com/Sudharsanselvaraj/Applivo-Distributed-Opportunity-Application-Orchestration-System)** | Autonomous AI career agent — scrapes jobs, LLM analysis, ATS resume gen, auto-apply | FastAPI · PostgreSQL · Redis · Celery · ChromaDB · OpenAI · Playwright | Production-grade |
-| **[ALKF Master Land Plan API](https://github.com/Sudharsanselvaraj/ALKF-Master-Land-Plan-API)** | Geospatial API for lot ID → spatial intelligence, boundary sampling, view/noise analysis | Python · OpenCV · DXF · Geospatial | ALKF Internship |
-| **[OrbitXOS](https://github.com/Sudharsanselvaraj/OrbitXOS)** | Real-time space debris & satellite tracking across LEO/MEO/GEO with collision forecasting | Python · 3D Earth Viz · Orbital Mechanics | Top 5 / 981 teams |
-| **[PERSEUS-Net](https://github.com/Sudharsanselvaraj/PERSEUS-Net-Perception-Environment-Reasoning-System)** | Perception-Environment-Reasoning autonomous system | Python | Pinned |
-| **[Tracenox](https://github.com/Sudharsanselvaraj/Tracenox-Towards-Adaptive-Cybersecurity-using-Hybrid-Deep-Learning-and-FSM-Models)** | Adaptive cybersecurity using hybrid deep learning + FSM models | Python · Deep Learning | Pinned |
-| **[WQ Vision](https://github.com/Sudharsanselvaraj/wqvision-testing-kit)** | AI water quality kit — colorimetric strip analysis via ESP32-CAM | OpenCV · FastAPI · ESP32-CAM | 🥇 Protothon 1.0 |
-| **[GHG-FuseNet](https://github.com/Sudharsanselvaraj/GHG-API)** | Real-time GHG forecasting — CO₂ R²=0.94, NO₂ R²=0.89 | NASA FIRMS · FastAPI · Random Forest | 🏆 4th / 556 teams |
-| **[Legal Contract Analyzer](https://github.com/Sudharsanselvaraj/Legal-Contract-Analyzer-using-Zero-Shot-LLM-inference-and-semantic-Embedding-)** | Zero-shot LLM + semantic embedding clause risk scoring | XGBoost · TF-IDF · PyMuPDF | — |
-| **[FroSense](https://github.com/Sudharsanselvaraj/Frosense-Intelligence)** | AI cold storage system with IoT + solar-battery optimization | ESP32 · FastAPI · Sensor Fusion | HackXtreme 2025 |
-| **[Autonomous Proctoring](https://github.com/Sudharsanselvaraj/Autnomous-Real-Time-Proctoring-via-Cross-Modal-Gaze-and-Pose-Encoding-using-Vision-Transformers)** | Cross-modal gaze + pose encoding via Vision Transformers | YOLOv8 · MediaPipe · ViT · PyTorch | — |
+| Project | Description | Stack |
+|---------|------------|-------|
+| **Global IP Intelligence Platform** | Web application to simplify patent search and analysis across multiple sources | React.js· TailwindCSS · Java Spring Boot· . Spring Security PostgreSQL . AI Engine |
+|**Smart Budget Tracker** | Full-stack application to track daily expenses, categorize spending, and provide insights on financial habits. Implemented CRUD operations, data storage, and user-friendly UI for managing budgets efficiently. | HTML · CSS · JavaScript · MySQL |
+| **Software Testing Project** | Performed manual and automated testing on WestSide, including test case design, bug tracking, and validation of system functionality. Ensured application reliability through structured testing methodologies. | Selenium · Java · Manual Testing |
 
 ---
 
@@ -156,10 +107,8 @@
 
 | Role | Company | Period | Type |
 |------|---------|--------|------|
-| **ML Engineer Intern** | ALKF, Hong Kong | Jan 2026 – Present | Remote |
-| **Quantum Computation Intern** | NIT Trichy | Jun 2025 – Jul 2025 | On-site |
-| **Robotics Software Engineer** | Persist Ventures, SF | Dec 2024 – Feb 2025 | Remote |
-| **Data Analyst** | Indika AI, Bengaluru | Jul 2024 – Sep 2024 | Remote |
+| **Java Full Stack Intern** | Infosys Springboard | 27/11/2025 – 20/01/2026 | Remote |
+| **Full Stack Developer Intern** | M8 IT Solutions | 14/07/2025 – 30/09/2025| Onsite |
 
 ---
 
@@ -167,34 +116,12 @@
 
 | Degree | Institution | Period | Grade |
 |--------|-------------|--------|-------|
-| **BTech Honours — Quantum Computation** | SRMIST, Trichy | Jan 2025 – May 2027 | 'O'|
-| **BTech CSE** | SRMIST, Trichy | Sep 2023 – Mar 2027 | **9.667 CGPA** |
+| **B.E Computer Science** | SSM Institute of Engineering and Technology | 2022 – 2026 | ~8.2 CGPA |
 
 ---
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudharsanselvaraj/Sudharsanselvaraj/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudharsanselvaraj&theme=dark&hide_border=true&background=0A2A43&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
-
----
-
 ## LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sudharsan_ML?theme=dark&font=Inter&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/sarvatha?theme=dark&font=Inter&ext=contest"/>
 </p>
 
----
-
-<!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=60&section=footer"/>
