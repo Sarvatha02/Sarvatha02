@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <b>Java · Full Stack Development · Backend Developer· Problem Solving</b>
+  <b>Java · Full Stack AI Developer · Backend Developer· Problem Solving</b>
 </p>
 
 <p align="center">
