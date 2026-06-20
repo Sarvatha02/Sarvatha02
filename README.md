@@ -98,6 +98,8 @@
 | Project | Description | Stack |
 |---------|------------|-------|
 | **Global IP Intelligence Platform** | Web application to simplify patent search and analysis across multiple sources | React.js· TailwindCSS · Java Spring Boot· . Spring Security PostgreSQL . AI Engine |
+| **Intelligent Dyslexia Detection System** | AI-powered dyslexia screening platform that evaluates reading, spelling, memory, and phonological awareness, providing real-time risk prediction and severity classification. | React.js · FastAPI · XGBoost · Supabase · PostgreSQL |
+| **Crypto Portfolio Tracker** | Real-time cryptocurrency portfolio management platform with asset tracking, portfolio analytics, scam detection, trade monitoring, and tax-ready reporting features. | React.js · Spring Boot · MySQL · CoinGecko API · JWT |
 |**Smart Budget Tracker** | Full-stack application to track daily expenses, categorize spending, and provide insights on financial habits. Implemented CRUD operations, data storage, and user-friendly UI for managing budgets efficiently. | HTML · CSS · JavaScript · MySQL |
 | **Software Testing Project** | Performed manual and automated testing on WestSide, including test case design, bug tracking, and validation of system functionality. Ensured application reliability through structured testing methodologies. | Selenium · Java · Manual Testing |
 
