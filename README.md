@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sarvatha%20Rajendran&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+AI+Developer;Python+%7C+Spring+Boot+%7C+React;Backend+Developer+%7C+REST+APIs;Software+Engineering"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+AI+Developer;AI+Engineer;Python+%7C+Spring+Boot+%7C+React;Backend+Developer+%7C+REST+APIs;Software+Engineering"/>
 </h2>
 
 <p align="center">
@@ -25,14 +25,15 @@
 
 ## About Me
 
-> Computer Science Engineering student with strong foundation in **Core Java, OOP, and full-stack development**. Experienced in building web applications using modern technologies and developing scalable backend systems.
+Computer Science Engineering professional focused on Full-Stack Development and AI/ML. Skilled in Python, JavaScript, React.js, Spring Boot, Flask, FastAPI, PostgreSQL, and MySQL. Experienced in building AI-powered applications, REST APIs, secure web applications, and database-driven systems. Passionate about solving real-world problems through clean, practical, and scalable software.
 
-- Strong understanding of **object-oriented programming and backend development**
-- Experience building **RESTful APIs using Spring Boot**
-- Hands-on experience in **frontend and backend integration**
-- Completed **internship with real-world project development experience**
-- Focused on writing **clean, optimized, and maintainable code**
-
+- Strong foundation in Data Structures, Algorithms, OOP, and DBMS
+- Hands-on experience in full-stack web development and REST API development
+- Experience building AI/ML applications using XGBoost, NLP, and Scikit-learn
+- Experience with PostgreSQL, MySQL, and Supabase
+- Familiar with JWT authentication, role-based access control, and secure web applications
+- Comfortable with Git, GitHub, API integration, and frontend-backend integration
+- Always learning new technologies and building real-world projects
 ---
 
 ## Core Skills & Technologies
