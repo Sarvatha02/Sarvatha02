@@ -1,12 +1,12 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sarvatha%20R&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Sarvatha%20Rajendran&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+AI+Developer;Python+%7C+Spring+Boot+%7C+React;Backend+Developer+%7C+REST+APIs;Software+Engineering"/>
 </h2>
 
 <p align="center">
-  <b>Java · Full Stack AI Developer · Backend Developer· Problem Solving</b>
+  <b>Python · Full Stack AI Developer · Backend Developer· Problem Solving</b>
 </p>
 
 <p align="center">
