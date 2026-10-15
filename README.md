@@ -34,15 +34,15 @@
 
 ## About Me
 
-Computer Science Engineering graduate focused on **Full-Stack Development, AI/ML, and AI-powered applications**. Experienced in building web applications, REST APIs, database-driven systems, and intelligent software solutions using Python, JavaScript, React.js, Spring Boot, Flask, FastAPI, PostgreSQL, and MySQL.
+Computer Science Engineering professional focused on **Full-Stack Development, AI/ML, and intelligent software applications**. Experienced in building web applications, REST APIs, database-driven systems, and data-intensive applications using Python, JavaScript, React.js, Spring Boot, FastAPI, PostgreSQL, and MySQL.
 
-- Strong foundation in **Data Structures, Algorithms, OOP, and DBMS**.
+- Strong foundation in **Data Structures, Algorithms, Object-Oriented Programming, and DBMS**.
 - Hands-on experience in **full-stack web development and REST API development**.
 - Experience building AI/ML applications using **XGBoost, NLP, and Scikit-learn**.
-- Experience with **PostgreSQL, MySQL, and Supabase**.
+- Experience working with **PostgreSQL, MySQL, and Supabase**.
 - Familiar with **JWT authentication, Spring Security, and role-based access control**.
 - Experience with **Git, GitHub, API integration, and frontend-backend integration**.
-- Interested in **AI agents, LLM integration, intelligent automation, and scalable software systems**.
+- Interested in **AI agents, geospatial intelligence, workflow automation, and scalable software systems**.
 
 ---
 
@@ -146,6 +146,46 @@ Computer Science Engineering graduate focused on **Full-Stack Development, AI/ML
 
 </td>
 </tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### Geospatial Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Shapely-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OSMnx-0A2A43?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NetworkX-1572B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white"/>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### Data Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIS_Analysis-0A2A43?style=flat-square"/>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### Reporting & Deployment
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ReportLab-0A2A43?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PDF_Reports-CC3333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -162,9 +202,10 @@ Computer Science Engineering graduate focused on **Full-Stack Development, AI/ML
 
 | Project | Description | Technology Stack |
 |---|---|---|
-| **Global IP Intelligence Platform** | Web application designed to simplify patent search and analysis across multiple sources. | React.js · Tailwind CSS · Java · Spring Boot · Spring Security · PostgreSQL |
+| **GeoVision – AI-Powered Spatial Intelligence Platform** | Geospatial intelligence platform for urban site-feasibility analysis. Evaluates walking and driving accessibility, public transport connectivity, surrounding land use, 360° views, and road-noise exposure. Produces interactive map visualizations and consolidated PDF reports. | Python · FastAPI · GeoPandas · Shapely · PyProj · OSMnx · NetworkX · Pandas · NumPy · Matplotlib · ReportLab · OpenStreetMap |
+| **Global IP Intelligence Platform** | Web application designed to simplify patent search and analysis across multiple sources. | React.js · Tailwind CSS · Java · Spring Boot · Spring Security · PostgreSQL · AI Engine |
 | **Intelligent Dyslexia Detection System** | AI-powered screening platform that evaluates reading, spelling, memory, and phonological awareness to provide risk prediction and severity classification. | React.js · FastAPI · XGBoost · Supabase · PostgreSQL |
-| **Domyniq Hyperautomation Prospect Discovery & Engagement Engine** | Prospect intelligence and outreach automation platform that discovers companies, enriches contacts, verifies professional emails, and supports AI-assisted personalized outreach. | Python · OpenAI API · Apollo.io · Prospeo · Brevo · AsyncIO |
+| **Domyniq Hyperautomation Prospect Discovery & Engagement Engine** | Prospect intelligence and outreach automation platform that discovers companies, enriches contacts, verifies professional emails, and supports AI-assisted personalized outreach and campaign delivery. | Python · OpenAI API · Apollo.io · Prospeo · Brevo · AsyncIO |
 | **Crypto Portfolio Tracker** | Cryptocurrency portfolio management application with asset tracking, portfolio analytics, scam detection, trade monitoring, and tax-ready reporting features. | React.js · Spring Boot · MySQL · CoinGecko API · JWT |
 | **Smart Budget Tracker** | Full-stack expense management application with CRUD operations, spending categories, database storage, and financial insights. | HTML · CSS · JavaScript · MySQL |
 | **Software Testing Project** | Manual and automated testing project involving test case design, bug tracking, and validation of application functionality. | Selenium · Java · Manual Testing |
@@ -206,7 +247,7 @@ Computer Science Engineering graduate focused on **Full-Stack Development, AI/ML
 ---
 
 <p align="center">
-  <i>Building practical software solutions at the intersection of full-stack development and artificial intelligence.</i>
+  <i>Building practical software solutions at the intersection of full-stack development, artificial intelligence, and geospatial intelligence.</i>
 </p>
 
 <p align="center">
